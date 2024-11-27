@@ -1,2 +1,2 @@
-#Simon-says
-##Practicing javascript
+# Simon-says
+## Practicing javascript
